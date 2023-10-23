@@ -1,0 +1,16 @@
+.item {
+  width: 20vw;
+  height: max-content;
+  padding-bottom: 2vh;
+  display: flex;
+  flex-direction: column;
+}
+img {
+  width: 20vw;
+  height: 23vh;
+  margin-bottom: 2vh;
+  border-radius: 25px;
+}
+h2 {
+  margin-bottom: 2vh;
+}

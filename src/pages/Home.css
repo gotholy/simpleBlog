@@ -1,0 +1,28 @@
+.homeHeader {
+  background-image: url(../../public/HomeBG.jpg);
+  height: 50vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 15vh;
+}
+.homeHeader h1 {
+  margin-right: 66vw;
+}
+main {
+  text-align: left;
+  margin: 0;
+  padding-left: 18vw;
+}
+h2 {
+  color: #0d4625;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  width: 300px;
+  margin-top: 15vh auto 2vh auto;
+}

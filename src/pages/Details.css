@@ -1,0 +1,25 @@
+.detail {
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+}
+.detail img {
+  width: 55vw;
+  height: 60vh;
+}
+.titleDate {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  width: 55vw;
+}
+p {
+  width: 55vw;
+  margin-bottom: 3vh;
+}
+h4 {
+  width: 55vw;
+}
